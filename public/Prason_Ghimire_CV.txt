@@ -1,0 +1,23 @@
+Prason Ghimire
+Software Engineer | AI & Data Engineering
+
+Email: meet.prasonghimire@gmail.com
+Location: Bangalore, India
+
+Summary
+I build reliable software systems, analytics platforms, and cloud-based solutions that connect product, data, and delivery with measurable impact.
+
+Core Skills
+- Application engineering: Python, Flask, FastAPI, Java, Spring Boot, Hibernate, JPA
+- Data and analytics: Pandas, NumPy, Matplotlib, Seaborn, Power BI Embedded
+- Cloud and infrastructure: Azure, GCP, Azure SQL, Storage, Service Bus, Key Vault
+- Delivery and operations: Azure DevOps, Docker, CI/CD, Jira
+
+Experience
+- Accenture Solutions | Data Science Analytics Specialist | 2022 - Present
+- BridgeI2I Analytics Solutions | Senior Analytics Consultant | 2020 - 2022
+- Cotiviti Nepal | Software Engineer | 2018 - 2020
+
+Education
+- Master of Science in AI & ML | Liverpool John Moores University | 2022 - Today
+- Bachelor of Information Management | Tribhuvan University | 2014 - 2018
